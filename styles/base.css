@@ -13,7 +13,8 @@
 
 @media (min-width: 960px) {
     body {
-        width: 960px;
+        /* width: 960px; */
+        width:100%;
         margin: auto;
     }
 }
