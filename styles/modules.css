@@ -110,3 +110,38 @@
         background-color: #10355F;
     }
 }
+@media  (min-width: 960px)  {
+    #a{
+        background-color: #af0000;
+    }
+    #b {
+        background-color: #010a0a;
+    }
+    #c {
+        background-color: #db00d0;
+    }
+    
+    #d {
+        background-color: #fc8989;
+    }
+    
+    #e {
+        background-color: #7f36c4;
+    }
+    
+    #f {
+        background-color: #5ae619;
+    }
+    
+    #g {
+        background-color: #3f143b;
+    }
+    
+    #h {
+        background-color: #939699;
+    }
+    #i {
+        background-color: #00a063;
+    }
+
+}
